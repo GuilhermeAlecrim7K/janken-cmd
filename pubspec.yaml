@@ -1,13 +1,13 @@
 name: janken
-description: A sample command-line application.
+description: A rock, paper, scissors, lizard, spock command-line game
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/GuilhermeAlecrim7K/janken-cmd.git
 
 environment:
   sdk: ^3.0.0
 
 # Add regular dependencies here.
-dependencies:
+# dependencies:
   # path: ^1.8.0
 
 dev_dependencies:
